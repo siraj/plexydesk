@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsiraj%2Fplexydesk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsiraj%2Fplexydesk?ref=badge_shield)
+
 Getting PlexyDesk source files:
 ===============================
 You can get PlexyDesk sources via two methods:
@@ -136,3 +138,7 @@ You may debug PlexyDesk (only if built in Debugging Mode) by starting it in cons
 Set it to "enable", "true" or 1 (all are case insensitive). For Windows for example
 do it by issuing this command on the command line of your Command prompt:
 SET PLEXYDESK_CONSOLE_DEBUG=true
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsiraj%2Fplexydesk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsiraj%2Fplexydesk?ref=badge_large)
